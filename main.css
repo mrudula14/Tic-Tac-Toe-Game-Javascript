@@ -1,0 +1,22 @@
+
+
+#main-board {
+    width: 300px;
+    height: 600px;
+    margin: 0 auto;
+  
+}
+
+#main-board div {
+    width: 100px;
+    height: 100px;
+    outline: 1px solid;
+    float: left;
+}
+
+.tile{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+}
